@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glennaugustus.com on Mr Augustus - A Purveyor of Fine Blogs</title>
+    <link>/</link>
+    <description>Recent content in glennaugustus.com on Mr Augustus - A Purveyor of Fine Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2017 17:02:09 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miss You</title>
+      <link>/posts/missyou/</link>
+      <pubDate>Wed, 23 Aug 2017 17:02:09 +0100</pubDate>
+      
+      <guid>/posts/missyou/</guid>
+      <description>The last year or so, there has been some sad losses, notably from facebook friends, some expected others not, all painful, I thought I would share this - I wrote it a few months ago - it&amp;rsquo;s not Keats but it works for me. It was inspired by the loss of my dad many years ago, my aunt and uncle and a facebook post by one of my friends who lost their father too.</description>
+    </item>
+    
+    <item>
+      <title>Days Before Cider</title>
+      <link>/posts/daysbeforecider/</link>
+      <pubDate>Wed, 23 Aug 2017 16:22:00 +0100</pubDate>
+      
+      <guid>/posts/daysbeforecider/</guid>
+      <description>Some days are lovely, no clouds in the sky
+I can see things for miles, from here, way up high
+sun bathing one day and drinking through straws
+weighing down parents who are also in-laws
+now i’m the oldest my purpose is clear
+i’ve done all my growing, my destiny near
+the leaves are all chanting, “go on, release!”
+one day I will do, if only for peace
+it’s such a way down, with my vertigo</description>
+    </item>
+    
+    <item>
+      <title>Moving Statically</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 22 Aug 2017 16:41:18 +0100</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>After yesterday being one of those days that achieving satisfaction seemed low down the list, today has provided success in bounds, not least my $1500 overcharge with a car hire company got resolved, I won&amp;rsquo;t mention the name Although Vindicated I Should.
+So with a bounce in my step, it felt like the right time to make the move from wordpress, not that I have a problem with the platform - it&amp;rsquo;s that I love the idea of moving back to some cleaner interfaces, almost the same as a driver wanting to feel the road and feeling disapointment everytime they get into a new car with power steering.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
