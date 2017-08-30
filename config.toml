@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Mr Augustus - A Purveyor of Fine Blogs"
 theme = "gohugo-theme-ananke"
-themesDir = "../.."
 publishDir = "public"
 
 [params]
